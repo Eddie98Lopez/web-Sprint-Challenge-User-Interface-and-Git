@@ -144,3 +144,46 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+
+.top-content img{
+    margin-bottom: 1rem;
+}
+
+nav{
+    display:flex;
+    justify-content: space-between;
+    align-content: center;
+    width: 800px;
+    margin: 20px auto;
+    
+}
+
+nav a {
+    margin: auto 2rem;
+    text-decoration: none;
+    color: black;
+    font-size:  0.8rem;
+}
+
+#gold{
+
+    background-color: gold;
+}
+#teal{background-color: teal;}
+
+#cadetblue{background-color: cadetblue;}
+
+#coral{background-color: coral;}
+
+#crimson{background-color: crimson;}
+
+#forestgrean{background-color: forestgreen;}
+
+#darkorchid{background-color: darkorchid;}
+
+#hotpink{background-color: hotpink;}
+
+#indigo{background-color: indigo;}
+
+#dodgerblue{background-color: dodgerblue;}
