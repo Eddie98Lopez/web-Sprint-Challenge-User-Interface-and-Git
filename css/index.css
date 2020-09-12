@@ -187,3 +187,50 @@ nav a {
 #indigo{background-color: indigo;}
 
 #dodgerblue{background-color: dodgerblue;}
+
+
+/*about Page*/
+
+.containerAbout-page{
+    width: 800px;
+    margin: 0 auto;
+}
+
+.main{
+    
+    width: 800px;
+
+
+}
+
+.main div{
+display: inline-block;
+ width: 45%;
+border-bottom: 2px dashed black;
+margin: 1rem;
+padding: 1rem;
+}
+
+.main div button{
+    padding: 5px 10px;
+    border: 2px solid black;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.aboutheader{
+    border-bottom: 2px dashed black;
+    padding: 1rem;
+}
+
+.aboutheader img{
+    margin-bottom: 1rem;
+}
+
+.aboutlastSec{
+    margin: 3rem auto;
+}
+
+
+
+}
