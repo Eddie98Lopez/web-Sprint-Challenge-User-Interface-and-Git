@@ -1,0 +1,21 @@
+If you were to describe semantic HTML to the next cohort of students, what would you say?
+A: Imagine youre creating an outline of a chapter in a text book. There are headings subheading and paragraphs.
+    Semanitc HTML is just that. Intentionallity of organization with HTML elements.
+
+Name two big differences between display: block; and display: inline;.
+A: display:block will unless otherwise specified have a width that fills the window.
+    and have an automatic linebreak. Whereas display:inline will not have a linebreak 
+    and display side by side with other elements. 
+    so i guess the 2 differnces would be its default width and the default linebreak properties
+
+What are the 4 areas of the box model?
+A: Content>Padding>Border>Margin
+
+While using flexbox, what axis does the following property work on: align-items: center?
+A: it works on the cross axis of the flex-direction
+
+Explain why git is valuable to a team of developers.
+A: it allows a team to make multiple edits by individual members and keep track of
+    those edits without potentially breaking the source code. And in the event that 
+    the source code breaks, it allows you to revert back to previous versions. And see
+    what was the last edit that broke the code. 
